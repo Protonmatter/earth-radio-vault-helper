@@ -1,0 +1,12 @@
+.build/
+dist/
+*.pdb
+*.user
+receipts/
+**/test-evidence/
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+*.enc
